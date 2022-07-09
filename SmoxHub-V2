@@ -9,11 +9,11 @@ $$\   $$ |$$ | $$ | $$ |$$ |  $$ | $$  $$<  $$ |  $$ |$$ |  $$ |$$ |  $$ |      
  \______/ \__| \__| \__| \______/ \__/  \__|\__|  \__| \______/ \_______/           \_/    \________|
 ]]--
 ------------------------------------------------------------ Legends Of Speed
-if game.PlaceId == 3101667897 then loadstring(game:HttpGet(' **COMING SOON** ', true))() end
+if game.PlaceId == 3101667897 then loadstring(game:HttpGet('https://raw.githubusercontent.com/SmoxHub/SmoxHub-V2/main/Legends%20Of%20Speed-V2', true))() end
 ------------------------------------------------------------ Legends Of Speed
 
 ------------------------------------------------------------ Word Bomb
-if game.PlaceId == 2653064683 then loadstring(game:HttpGet(" **COMING SOON** "))() end
+if game.PlaceId == 2653064683 then loadstring(game:HttpGet("https://raw.githubusercontent.com/SmoxHub/SmoxHub-V2/main/WordBomb-V2"))() end
 ------------------------------------------------------------ Word Bomb
 
 ------------------------------------------------------------ Ninja Legends
@@ -21,7 +21,7 @@ if game.PlaceId == 3956818381 then loadstring(game:HttpGet(' **COMING SOON** ', 
 ------------------------------------------------------------ Ninja Legends
 
 ------------------------------------------------------------ Arsenal
-if game.PlaceId == 286090429 then loadstring(game:HttpGet(' **COMING SOON** ', true))() end
+if game.PlaceId == 286090429 then loadstring(game:HttpGet('https://raw.githubusercontent.com/SmoxHub/SmoxHub-V2/main/Arsenal-V2', true))() end
 ------------------------------------------------------------ Arsenal
 
 ------------------------------------------------------------ Pet sim X
@@ -33,5 +33,5 @@ if game.PlaceId == 142823291 then loadstring(game:HttpGet(' **COMING SOON** ', t
 ------------------------------------------------------------ Mm2
 
 ------------------------------------------------------------ Jailbreak
-if game.PlaceId == 606849621 then  loadstring(game:HttpGet(' **COMING SOON** ', true))() end
+if game.PlaceId == 606849621 then  loadstring(game:HttpGet('https://raw.githubusercontent.com/SmoxHub/SmoxHub-V2/main/Jailbreak-V2', true))() end
 ------------------------------------------------------------ Jailbreak
