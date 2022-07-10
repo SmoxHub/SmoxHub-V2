@@ -17,3 +17,8 @@ SmoxHub doesn't promote exploiting to other users on the platform Roblox we just
 if you are having problems with smoxhub join our discord server for support ask questions we will answer them there ---> https://discord.gg/C9wnmw8qHw
 
 -SIKE WE DO FUCK OUT OF HERE NIGGAS-
+
+<!---
+SmoxHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes. I don't know this was recommended by GitHub LMFAO
+--->
